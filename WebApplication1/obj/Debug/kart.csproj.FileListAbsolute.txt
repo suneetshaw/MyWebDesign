@@ -1,0 +1,24 @@
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\obj\Debug\kart.csprojResolveAssemblyReference.cache
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\SEMESTER 1\WEBDESIGNING\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\x14117754\Documents\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\x14117754\Documents\WebApplication1\bin\WebApplication1.dll
+C:\Users\x14117754\Documents\WebApplication1\bin\WebApplication1.pdb
+C:\Users\x14117754\Documents\WebApplication1\obj\Debug\kart.csprojResolveAssemblyReference.cache
+C:\Users\x14117754\Documents\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\x14117754\Documents\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\ca\WebApplication1\bin\WebApplication1.dll.config
+H:\ca\WebApplication1\bin\WebApplication1.dll
+H:\ca\WebApplication1\bin\WebApplication1.pdb
+H:\ca\WebApplication1\obj\Debug\kart.csprojResolveAssemblyReference.cache
+H:\ca\WebApplication1\obj\Debug\WebApplication1.dll
+H:\ca\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\SEMESTER 1\ca\WebApplication1\bin\WebApplication1.dll.config
+H:\SEMESTER 1\ca\WebApplication1\bin\WebApplication1.dll
+H:\SEMESTER 1\ca\WebApplication1\bin\WebApplication1.pdb
+H:\SEMESTER 1\ca\WebApplication1\obj\Debug\kart.csprojResolveAssemblyReference.cache
+H:\SEMESTER 1\ca\WebApplication1\obj\Debug\WebApplication1.dll
+H:\SEMESTER 1\ca\WebApplication1\obj\Debug\WebApplication1.pdb

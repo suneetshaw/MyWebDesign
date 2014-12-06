@@ -1,0 +1,69 @@
+﻿body {
+   
+    background-image: url('music/cool.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: violet;
+    font-family: 'Monotype Corsiva';
+    font-size: 100%;
+    text-align: left;
+    line-height: 2.0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: blue;
+}
+
+a:hover, a:active {
+    background-color:#ffd800;
+    color:#ff0000;
+}
+
+.body {
+    margin:0 auto;
+    width: 70%;
+    clear:both;
+    color:#ff0000;
+}
+
+.mainheader img {
+    width: auto;
+    height:auto;
+    
+    
+}
+
+.menu {
+
+    
+    right: 200px;
+    top: 200px;
+    width: 800px;
+    height: 40%;
+    font-size: 150%;
+    font-family: 'Monotype Corsiva';
+    font-weight: bold ;
+    text-align: center;
+    background-color: indianred;
+        border-radius: 110%;
+          
+  
+}
+
+#one{
+    width: 50%;
+    height: 50%;
+    background-color:yellow;
+    border-radius:10%;
+    text-align:center;
+}
+
+#two{
+    color:blue;
+
+
+}
